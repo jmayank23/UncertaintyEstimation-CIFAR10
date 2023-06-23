@@ -1,5 +1,8 @@
 # Uncertainty Estimation with CIFAR10 using Monte Carlo Inference
 
+![ship](https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/520ac562-d370-4013-b6e5-c0ae930705e7) ![uncertainty](https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/fc4f789f-226b-4feb-bbcb-d8b638292c87)
+
+
 ## Introduction
 This code trains a convolutional neural network (CNN) on the CIFAR-10 dataset and then implements Monte Carlo Dropout Inference to estimate model uncertainty. The documentation will cover the importance of model uncertainty, an explanation of Monte Carlo Dropout Inference, and the sequence of steps involved in the code.
 
