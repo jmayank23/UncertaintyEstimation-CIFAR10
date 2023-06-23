@@ -1,6 +1,10 @@
 # Uncertainty Estimation with CIFAR10 using Monte Carlo Inference
 
-![ship](https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/520ac562-d370-4013-b6e5-c0ae930705e7) ![uncertainty](https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/fc4f789f-226b-4feb-bbcb-d8b638292c87)
+<div style="display:flex;justify-content:center;">
+    <img src="https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/520ac562-d370-4013-b6e5-c0ae930705e7" alt="ship" width="380"/>
+    <img src="https://github.com/jmayank23/UncertaintyEstimation_CIFAR10/assets/27727185/fc4f789f-226b-4feb-bbcb-d8b638292c87" alt="uncertainty" width="500"/>
+</div>
+
 
 
 ## Introduction
