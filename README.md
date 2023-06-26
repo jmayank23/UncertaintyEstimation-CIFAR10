@@ -10,6 +10,8 @@
 ## Introduction
 This code trains a convolutional neural network (CNN) on the CIFAR-10 dataset and then implements Monte Carlo Dropout Inference to estimate model uncertainty. The documentation will cover the importance of model uncertainty, an explanation of Monte Carlo Dropout Inference, and the sequence of steps involved in the code.
 
+**TODO:** Add other methods to measure model uncertainty
+
 ## Importance of Model Uncertainty
 In deep learning, model uncertainty refers to the confidence or uncertainty associated with the predictions made by a model. It is crucial to understand model uncertainty for several reasons:
 - **Reliability assessment:** Model uncertainty helps assess the reliability of predictions and identify cases where the model's predictions may be less trustworthy.
